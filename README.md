@@ -1,2 +1,0 @@
-# test
-Practicing sh#t really bruh 
